@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Datastructure/linkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+            <state relative-caret-position="153">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding>
                 <element signature="e#137#138#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -33,11 +33,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Datastructure/listLibrary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/deleteLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/nodemiddleDelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -94,12 +121,15 @@
         <option value="$PROJECT_DIR$/src/Datastructure/stackQuestions/queue/listQueue.java" />
         <option value="$PROJECT_DIR$/src/Datastructure/linkedList.java" />
         <option value="$PROJECT_DIR$/src/Datastructure/listLibrary.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/deleteLL.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/nodemiddleDelete.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2925" />
-    <option name="width" value="896" />
+    <option name="x" value="2933" />
+    <option name="width" value="909" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,38 +175,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="big4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="stackQuestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="big4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="stackQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="big4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="stackQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-              <item name="listQueue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="big4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="stackQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="stringStack.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560920794443" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561175695153" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -200,7 +198,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.listLibrary">
+  <component name="RunManager" selected="Application.nodemiddleDelete">
+    <configuration name="deleteLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.deleteLL" />
+      <module name="big4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deletenodeGivenPos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.deletenodeGivenPos" />
+      <module name="big4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Datastructure.linkedList" />
       <module name="big4" />
@@ -227,38 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.stackQuestions.queue.listQueue" />
+    <configuration name="nodemiddleDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.nodemiddleDelete" />
       <module name="big4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Datastructure.stackQuestions.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simpleQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.stackQuestions.queue.simpleQueue" />
-      <module name="big4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Datastructure.stackQuestions.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stackusingLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.stackQuestions.stackusingLList" />
-      <module name="big4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Datastructure.stackQuestions.*" />
+          <option name="PATTERN" value="Datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,19 +265,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.stackusingLList" />
-      <item itemvalue="Application.simpleQueue" />
-      <item itemvalue="Application.listQueue" />
       <item itemvalue="Application.linkedList" />
       <item itemvalue="Application.listLibrary" />
+      <item itemvalue="Application.deleteLL" />
+      <item itemvalue="Application.deletenodeGivenPos" />
+      <item itemvalue="Application.nodemiddleDelete" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nodemiddleDelete" />
+        <item itemvalue="Application.deletenodeGivenPos" />
+        <item itemvalue="Application.deleteLL" />
         <item itemvalue="Application.listLibrary" />
         <item itemvalue="Application.linkedList" />
-        <item itemvalue="Application.stackusingLList" />
-        <item itemvalue="Application.listQueue" />
-        <item itemvalue="Application.simpleQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -297,9 +295,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2925" y="0" width="896" height="1047" extended-state="0" />
+    <frame x="2933" y="0" width="909" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26555023" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2779741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -307,16 +306,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50119615" visible="true" weight="0.21334793" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50119615" visible="true" weight="0.21334793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32822758" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.49880382" side_tool="true" weight="0.26918918" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,14 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Datastructure/linkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/deleteLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -480,6 +475,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/linkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/nodemiddleDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
         </state>
       </provider>
     </entry>
