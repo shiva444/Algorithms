@@ -44,7 +44,7 @@ public class Doubly_LinkedList {
     public void printlist(Node node) {
         Node last = null;
         System.out.println("Traversal in forward Direction");
-        while (node != null) {
+        while (node != null) { 
             System.out.print(node.data + " ");
             last = node;
             node = node.next;

@@ -12,19 +12,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Datastructure/problems/duplicatesSortedList.java">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/Doubly_LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="-238">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Datastructure/Doubly_LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/reverseDoublyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+            <state relative-caret-position="811">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/Delete_DoublyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="38" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/problems/DoublyList_deleteatAny.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -64,13 +91,16 @@
         <option value="$PROJECT_DIR$/src/Datastructure/problems/duplicatesSortedList.java" />
         <option value="$PROJECT_DIR$/src/Datastructure/problems/Remove_Duplicate_From_LL.java" />
         <option value="$PROJECT_DIR$/src/Datastructure/Doubly_LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/Delete_DoublyList.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/problems/DoublyList_deleteatAny.java" />
+        <option value="$PROJECT_DIR$/src/Datastructure/reverseDoublyLinkedList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1018" />
-    <option name="width" value="909" />
-    <option name="height" value="1047" />
+    <option name="x" value="2911" />
+    <option name="width" value="931" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +150,21 @@
               <item name="big4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="big4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Remove_Duplicate_From_LL.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="big4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="big4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
               <item name="stackQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -134,12 +180,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561697525303" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithms" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561772756130" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,9 +198,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Doubly_LinkedList">
-    <configuration name="Doubly_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.Doubly_LinkedList" />
+  <component name="RunManager" selected="Application.reverseDoublyLinkedList">
+    <configuration name="Delete_DoublyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.Delete_DoublyList" />
       <module name="big4" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicate_From_LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.problems.Remove_Duplicate_From_LL" />
+    <configuration name="DoublyList_deleteatAny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.problems.DoublyList_deleteatAny" />
       <module name="big4" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deletenodeGivenPos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.deletenodeGivenPos" />
+    <configuration name="Doubly_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.Doubly_LinkedList" />
       <module name="big4" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +251,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nodemiddleDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Datastructure.nodemiddleDelete" />
+    <configuration name="reverseDoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datastructure.reverseDoublyLinkedList" />
       <module name="big4" />
       <extension name="coverage">
         <pattern>
@@ -220,19 +265,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.deletenodeGivenPos" />
-      <item itemvalue="Application.nodemiddleDelete" />
       <item itemvalue="Application.duplicatesSortedList" />
-      <item itemvalue="Application.Remove_Duplicate_From_LL" />
       <item itemvalue="Application.Doubly_LinkedList" />
+      <item itemvalue="Application.Delete_DoublyList" />
+      <item itemvalue="Application.DoublyList_deleteatAny" />
+      <item itemvalue="Application.reverseDoublyLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseDoublyLinkedList" />
+        <item itemvalue="Application.DoublyList_deleteatAny" />
+        <item itemvalue="Application.Delete_DoublyList" />
         <item itemvalue="Application.Doubly_LinkedList" />
         <item itemvalue="Application.duplicatesSortedList" />
-        <item itemvalue="Application.Remove_Duplicate_From_LL" />
-        <item itemvalue="Application.nodemiddleDelete" />
-        <item itemvalue="Application.deletenodeGivenPos" />
       </list>
     </recent_temporary>
   </component>
@@ -250,10 +295,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1018" y="0" width="909" height="1047" extended-state="0" />
+    <frame x="2911" y="0" width="931" height="1060" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2909305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2652124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,8 +307,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50119615" visible="true" weight="0.21334793" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50119615" weight="0.21035598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399137" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -465,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Datastructure/problems/Remove_Duplicate_From_LL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="909">
@@ -482,14 +520,42 @@
     <entry file="file://$PROJECT_DIR$/src/Datastructure/problems/duplicatesSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/deletenodeGivenPos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/problems/DoublyList_deleteatAny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Datastructure/Doubly_LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        <state relative-caret-position="-238">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/Delete_DoublyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Datastructure/reverseDoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
         </state>
       </provider>
     </entry>
