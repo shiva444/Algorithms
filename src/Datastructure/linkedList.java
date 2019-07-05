@@ -14,6 +14,7 @@ public class linkedList {
         Node newn = new Node(new_data);
         newn.next = head;
         head = newn;
+
     }
     public void after(Node prev, int new_data){
         if(prev == null){
