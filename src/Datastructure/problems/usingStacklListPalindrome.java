@@ -19,7 +19,7 @@ public class usingStacklListPalindrome {
            int top = stk.pop().intValue();
            if (top != slow.data){
                return false;
-           }
+           } 
            slow = slow.next;
        }
        return true;

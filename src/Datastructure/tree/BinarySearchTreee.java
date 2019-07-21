@@ -32,7 +32,6 @@ public class BinarySearchTreee {
         }
         /* if less than data -> left *
          /* if greater than data -> right */
-
         if (data <= root.data) {
             root.left = insertRec(root.left, data);
         } else {
@@ -48,13 +47,6 @@ public class BinarySearchTreee {
             return search(data, root.left);
         else
             return search(data, root.right);
-    }
-
-    public static void main(String[] args) {
-        BinarySearchTreee tree = new BinarySearchTreee();
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
-        System.out.println("Enter your input to search  : " + input);
     }
 
     Node delete(Node root, int data) {
@@ -108,7 +100,15 @@ public class BinarySearchTreee {
         System.out.println("root data is :" + root.data);
         inorderRec(root.right);
     }
-
+    public static void main(String[] args) {
+        BinarySearchTreee tree = new BinarySearchTreee();
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
+        System.out.println("Enter your input to search  : " + input);
+        tree.getNode(3);
+        tree.getNode(31);
+        tree.getNode(32);
+    }
 }
 
 
